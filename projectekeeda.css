@@ -1,0 +1,29 @@
+body{
+    background-color: darkred;
+}
+.input{
+    width: 65%;
+    height: 60px;
+    border-radius: 5px 5px 5px 5px;
+    font-weight: bold;
+    font-size: 40px;
+    text-align: right;
+}
+.calculator-center{
+    text-align: center;
+    height: 500px;
+    margin-left: 65px;
+}
+::placeholder{
+    color:black;
+}
+.numpart{
+    padding: 2px;
+    width: 1050px;
+    margin: 3px;
+}
+.numbers{
+    width: 175px;
+    height: 60px;
+    border-radius: 2px 2px 2px 2px ;
+}
